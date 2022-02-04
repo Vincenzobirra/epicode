@@ -1,0 +1,95 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: fira, sans-serif;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.row {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.imgNotebook img {
+    width: 50%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.btn {
+    background: linear-gradient(90deg, #86e6ff 0%, #0054f4 100%);
+}
+
+.btn a {
+    color: white;
+    text-decoration: none;
+}
+
+ul {
+    list-style: "✓";
+    list-style-position: inside;
+}
+
+.col-md-4 ul li {
+    padding-left: 50px;
+    margin: 10px;
+    text-align: left;
+}
+
+.col-md-12 {
+    margin-bottom: 30px;
+}
+
+.col-md-6 p,
+.col-md-12 p {
+    text-align: left;
+}
+
+.col-md-4 {
+    margin-bottom: 30px;
+}
+
+.box1 {
+    background-color: rgb(53, 211, 250);
+    transform: skew(-10deg, 0);
+    padding: 30px;
+}
+
+.box2 {
+    background-color: rgb(255, 47, 99);
+    transform: skew(-10deg, 0);
+    padding: 30px;
+}
+
+.box3 {
+    background-color: rgb(248, 233, 95);
+    transform: skew(-10deg, 0);
+    padding: 30px;
+}
+
+main .col-md-4 p:last-child {
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+footer {
+    text-align: left;
+}
+
+footer div {
+    text-align: left;
+}
+
+.icon:before {
+    color: #000000;
+    font-family: FontAwesome;
+}

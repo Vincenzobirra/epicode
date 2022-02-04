@@ -1,0 +1,43 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: fira, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    text-align: left;
+}
+
+.row {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.col-md-12 {
+    margin-bottom: 30px;
+}
+
+form input {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.btn {
+    margin-bottom: 30px;
+}
+
+footer {
+    text-align: left;
+}
+
+.icon:before {
+    color: #000000;
+    font-family: FontAwesome;
+}
+
+.btn {
+    background: linear-gradient(90deg, #86e6ff 0%, #0054f4 100%);
+}

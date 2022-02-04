@@ -1,0 +1,99 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: fira, sans-serif;
+    text-align: center;
+}
+
+header .banner {
+    color: white;
+    text-shadow: 2px 2px 4px black;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    padding: 80px 50px 80px;
+    background-image: url("../images/banner.jpg");
+    margin-bottom: 40px;
+}
+
+.banner h1,
+.banner p {
+    text-align: left;
+}
+
+div {
+    text-align: center;
+}
+
+.container2 h3,
+.container2 p {
+    text-align: left;
+}
+
+.row {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.col-md-5 p {
+    text-align: left;
+    padding-left: 50px;
+}
+
+.col-md-5 .icon:before,
+.col-md-4 .icon:before {
+    color: #ce1f1f;
+    font-family: FontAwesome;
+}
+
+.banner .btn a,
+.bannerBlu .btn a {
+    color: white;
+    text-decoration: none;
+}
+
+.col-md-6 .icon:before {
+    color: #ce1f1f;
+}
+
+.bannerBlu {
+    color: white;
+    text-align: center;
+    padding: 50px 50px 50px;
+    text-shadow: 2px 2px 4px black;
+    background-color: darkblue;
+    margin-bottom: 50px;
+}
+
+.container2 {
+    text-align: left;
+}
+
+.imgNotebook img {
+    width: 50%;
+}
+
+footer div {
+    text-align: left;
+}
+
+.icon:before {
+    color: #000000;
+    font-family: FontAwesome;
+}
+
+footer div i {
+    padding: 10px;
+    font-size: 15px;
+    color: black;
+}
+
+footer .social {
+    text-align: center;
+}
+
+.btn {
+    background: linear-gradient(90deg, #86e6ff 0%, #0054f4 100%);
+}
